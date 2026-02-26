@@ -1,0 +1,59 @@
+# Censa — Privacy Policy
+
+**Effective Date: February 26, 2026**
+
+## Overview
+
+Censa is a mobile application that provides access to publicly available demographic data from the U.S. Census Bureau. This policy explains how Censa handles your information.
+
+**The short version: Censa does not collect, store, or share any personal data. Period.**
+
+## Information We Do Not Collect
+
+Censa does not collect, transmit, or store:
+
+- Personal information (name, email, phone number, address)
+- Device identifiers or advertising IDs
+- Location data
+- Usage analytics or behavioral data
+- Crash reports or diagnostics
+- Cookies or tracking pixels
+
+## Network Requests
+
+Censa makes network requests solely to the U.S. Census Bureau API (api.census.gov) to retrieve publicly available American Community Survey data. These requests contain only geographic and variable parameters necessary to fetch demographic data. No personal or device information is included in these requests.
+
+## Data Storage
+
+All data retrieved from the Census Bureau API is cached locally on your device to improve performance. This cached data contains only publicly available Census Bureau statistics. No personal data is stored on your device by Censa. You can clear cached data at any time by deleting the app.
+
+## Exported Files
+
+When you export data as CSV files, those files are saved to a location you choose on your device or cloud storage. Censa does not retain copies of exported files and has no access to your file system beyond the export action you initiate.
+
+## Third-Party Services
+
+Censa does not integrate with any third-party analytics, advertising, or tracking services. The only external service Censa communicates with is the U.S. Census Bureau API.
+
+## Optional API Key
+
+In the future, Censa might offer the option to enter a personal Census Bureau API key for higher request limits. If you choose to provide an API key, it is stored locally on your device only and is used exclusively for authenticating requests to the Census Bureau API. Your API key is never transmitted to any other service.
+
+## Children's Privacy
+
+Censa does not collect personal information from any user, including children under the age of 13. The app is compliant with the Children's Online Privacy Protection Act (COPPA).
+
+## Changes to This Policy
+
+If this privacy policy is updated, the revised version will be posted here with an updated effective date. Because Censa collects no personal data, changes are expected to be minimal and infrequent.
+
+## Contact
+
+If you have questions about this privacy policy, contact:
+
+Jared Lewis
+jared@parcri.com
+
+---
+
+*Censa is not affiliated with or endorsed by the U.S. Census Bureau.*
